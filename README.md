@@ -10,16 +10,27 @@ _This webpage is meant to showcase the JavaScript that we have learned thus far 
 
 ### Specs
 * It can count up to the number provided
+
   **Example Input: 8**
+
   **Example Output: [1,2,3,4,5,6,7,8]**
+
 * It will return multiples of three as "Ping"
+
   **Example Input: 3**
+
   **Example Output: [1,2,Ping]**
+
 * It will return multiples of 5 as "Pong"
+
   **Example Input: 5**
+
   **Example Output: [1,2,3,4,Pong]**
+
 * It can return multiples of 3 and 5 as "PingPong"
+
   **Example Input: 15**
+
   **Example Output: [1,2,Ping,4,Pong,Ping,7,8,Ping,Pong,11,Ping,13,14,PingPong]**
 
 ## Setup/Installation Requirements
