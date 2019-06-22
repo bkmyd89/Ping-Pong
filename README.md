@@ -1,4 +1,4 @@
-#_Ping Pong_
+# _Ping Pong_
 
 #### _Code Review 3 for Intro to Programming 1, June 24, 2019_
 
@@ -8,7 +8,7 @@
 
 _This webpage is meant to showcase the JavaScript that we have learned thus far in our course. The end result should produce the following specs._
 
-###Specs
+### Specs
 * It can count up to the number provided
   **Example Input: 8**
   **Example Output: [1,2,3,4,5,6,7,8]**
@@ -36,9 +36,9 @@ _If you have questions, comments or concerns with any of this code, please feel 
 
 ## Technologies Used
 
-[HTML]
-[CSS]
-[JavaScript]
+_[HTML]_
+_[CSS]_
+_[JavaScript]_
 
 ### License
 
