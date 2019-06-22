@@ -1,4 +1,4 @@
-# _Ping Pong_
+# Ping Pong
 
 #### _Code Review 3 for Intro to Programming 1, June 24, 2019_
 
@@ -11,27 +11,27 @@ _This webpage is meant to showcase the JavaScript that we have learned thus far 
 ### Specs
 * It can count up to the number provided
 
-  _**Example Input: 8**
+  _**Example Input: 8**_
 
-  **Example Output: [1,2,3,4,5,6,7,8]**_
+  _**Example Output: [1,2,3,4,5,6,7,8]**_
 
 * It will return multiples of three as "Ping"
 
-  _**Example Input: 3**
+  _**Example Input: 3**_
 
-  **Example Output: [1,2,Ping]**_
+  _**Example Output: [1,2,Ping]**_
 
 * It will return multiples of 5 as "Pong"
 
-  _**Example Input: 5**
+  _**Example Input: 5**_
 
-  **Example Output: [1,2,3,4,Pong]**_
+  _**Example Output: [1,2,3,4,Pong]**_
 
 * It can return multiples of 3 and 5 as "PingPong"
 
-  _**Example Input: 15**
+  _**Example Input: 15**_
 
-  **Example Output: [1,2,Ping,4, Pong,Ping,7,8,Ping,Pong,11,Ping,13,14,Ping Pong]**_
+  _**Example Output: [1,2,Ping,4, Pong,Ping,7,8,Ping,Pong,11,Ping,13,14,Ping Pong]**_
 
 ## Setup/Installation Requirements
 
