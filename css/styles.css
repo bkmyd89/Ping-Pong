@@ -1,0 +1,23 @@
+
+body {
+  text-align: left;
+  background-color: #ccccff;
+  padding: 10px;
+  color: #595959;
+}
+h1 {
+  text-align: center;
+}
+.sidebar {
+  width: 275px;
+  height: 700px;
+  float: left;
+  padding: 15px;
+  margin: 25px;
+  background-color: #9900cc;
+  color: #ccccff;
+  text-align: left;
+}
+.list {
+  display: none;
+}
