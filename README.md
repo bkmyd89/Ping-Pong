@@ -11,23 +11,27 @@ _This webpage is meant to showcase the JavaScript that we have learned thus far 
 ### Specs
 * It can count up to the number provided
 
-  **Example Input: 8**
-  **Example Output: [1,2,3,4,5,6,7,8]**
+  _**Example Input: 8**
+
+  **Example Output: [1,2,3,4,5,6,7,8]**_
 
 * It will return multiples of three as "Ping"
 
-  **Example Input: 3**
-  **Example Output: [1,2,Ping]**
+  _**Example Input: 3**
+
+  **Example Output: [1,2,Ping]**_
 
 * It will return multiples of 5 as "Pong"
 
-  **Example Input: 5**
-  **Example Output: [1,2,3,4,Pong]**
+  _**Example Input: 5**
+
+  **Example Output: [1,2,3,4,Pong]**_
 
 * It can return multiples of 3 and 5 as "PingPong"
 
-  **Example Input: 15**
-  **Example Output: [1,2,Ping,4, Pong,Ping,7,8,Ping,Pong,11,Ping,13,14,Ping Pong]**
+  _**Example Input: 15**
+
+  **Example Output: [1,2,Ping,4, Pong,Ping,7,8,Ping,Pong,11,Ping,13,14,Ping Pong]**_
 
 ## Setup/Installation Requirements
 
@@ -35,7 +39,7 @@ _This webpage is meant to showcase the JavaScript that we have learned thus far 
 
 ## Known Bugs
 
-_There are going to be many errors, please have mercy on me_
+_There are going to be many errors, please have mercy on me. Currently if a non-numerical value is entered, there is an empty result. Updates will occur for this when the review has taken place._
 
 ## Support and contact details
 
@@ -44,7 +48,9 @@ _If you have questions, comments or concerns with any of this code, please feel 
 ## Technologies Used
 
 _[HTML]_
+
 _[CSS]_
+
 _[JavaScript]_
 
 ### License

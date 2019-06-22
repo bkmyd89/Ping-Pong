@@ -3,10 +3,16 @@ body {
   text-align: left;
   background-color: #ccccff;
   padding: 10px;
-  color: #595959;
+  color: #404040;
 }
 h1 {
   text-align: center;
+}
+a {
+  color: #ccccff;
+}
+ol {
+  padding-left: 400px;
 }
 .sidebar {
   width: 275px;
